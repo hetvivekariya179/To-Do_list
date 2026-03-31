@@ -5,7 +5,7 @@
 - **Subject:** ADF  
 - **Activity:** ALA – Local Storage Implementation  
 - **College:** GMIU  
-- **Semester:** (Add Your Semester)
+- **Semester:** 6TH
 
 ---
 
